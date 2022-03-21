@@ -1,0 +1,31 @@
+{
+  "name": "twitter-circle-app-angular-v5",
+  "version": "5.0.0",
+  "description": "Twitter Circle Maker Desktop App",
+  "homepage": "https://github.com/charlesr1971/twitter-circle-app-angular-v5",
+  "author": {
+    "name": "Establish Mindfulness Ltd",
+    "email": "admin@establishmindfulness.com"
+  },
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "findit": "^2.0.0",
+    "get-random-values": "^1.2.2",
+    "gsap": "^2.0.2",
+    "https": "^1.0.0",
+    "image-size": "^1.0.0",
+    "ngx-colors": "^2.10.2",
+    "ngx-cookie-service": "^13.1.2",
+    "oauth-signature": "^1.5.0",
+    "pureimage": "^0.3.8",
+    "rxjs": "^7.4.0",
+    "twitter-lite": "^1.1.0",
+    "twitter-lite-custom": "file:twitter-lite-custom",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.5"
+  }
+}

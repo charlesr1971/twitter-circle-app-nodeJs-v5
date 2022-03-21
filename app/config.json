@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "port": 3000,
+    "secure": false,
+    "origin": "http://localhost:4200",
+    "rootDir": ""
+  },
+  "web": {
+    "port": 3000,
+    "secure": false,
+    "origin": "http://localhost:8500",
+    "rootDir": ""
+  },
+  "remote": {
+    "port": 3000,
+    "secure": false,
+    "origin": "*",
+    "rootDir": "C:\\domains\\circlemaker.establishmindfulness.com\\wwwroot"
+  },
+  "production": {
+    "port": 3000,
+    "secure": false,
+    "origin": "https://circlemaker.establishmindfulness.com",
+    "rootDir": "C:\\domains\\circlemaker.establishmindfulness.com\\wwwroot"
+  }
+}
